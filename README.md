@@ -1,5 +1,5 @@
 <p align="center">
- <h1 align="center">A Single-Step Latent Diffusion Model for Multi-Class Brain Stroke Segmentation</h2>
+ <h1 align="center">SDMC-Seg: A Single-Step Latent Diffusion Framework for Multi-Class Stroke Lesion Segmentation in Brain CT</h2>
 
 
 
