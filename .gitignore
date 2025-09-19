@@ -1,0 +1,5 @@
+.vscode/
+models/
+downloads/
+dataset/
+**/__pycache__/
