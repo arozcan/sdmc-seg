@@ -1,0 +1,22 @@
+{
+  "name": "Stroke",
+  "description": "Stroke CT slice segmentation (background / ischemic / hemorrhagic)",
+  "tensorImageSize": "2D",
+  "reference": "",
+  "licence": "",
+  "release": "1.0",
+  "channel_names": {
+    "0": "CT"
+  },
+  "modality": {
+    "0": "CT"
+  },
+  "labels": {
+    "background": 0,
+    "ischemic": 1,
+    "hemorrhagic": 2
+  },
+  "numTraining": 2001,
+  "numTest": 222,
+  "file_ending": ".png"
+}
